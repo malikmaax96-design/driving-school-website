@@ -8,6 +8,9 @@ Thumbs.db
 
 # Node
 node_modules/
+package.json
+package-lock.json
+add-secrets.js
 
 # Logs
 *.log
