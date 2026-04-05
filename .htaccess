@@ -1,0 +1,5 @@
+# Serve index.html before index.php
+DirectoryIndex index.html index.php
+
+# Enable rewrite engine
+Options -Indexes
