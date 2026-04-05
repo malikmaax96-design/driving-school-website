@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://quicklearndrivingschool.co.uk/sitemap.xml
+
+# Disallow admin and utility files
+Disallow: /generate-location-pages.js
+Disallow: /generate-location-pages.ps1
+
+# Crawl delay
+Crawl-delay: 1
